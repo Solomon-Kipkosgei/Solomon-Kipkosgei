@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Open-source%20enthusiast%20%26%20software%20development%20student.;Turning%20coffee%20and%20complex%20logic%20into%20seamless%20digital%20experiences." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=850&height=44&lines=Solomon%20Kipkosgei;Open-source%20enthusiast%20%26%20software%20development%20student." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
